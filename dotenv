@@ -1,0 +1,7 @@
+PRIVATE_KEY="4433d156e8c53bf5b50af07aa95a29436f29a94e0ccc5d58df8e57bdc8583c32"
+TOKEN_ADDRESS="0x9B0F93b394648b0E1a490790603c8945dE959935"
+ATTACK_AMOUNT=0.001
+CRITERIA_AMOUNT= 0.001
+SLIPPAGE=5
+RPC_HTTP_URL="https://proportionate-hardworking-sheet.bsc.discover.quiknode.pro/31b1c22de6474eebf9e4cadf566d9e7d2d000c08/"
+RPC_WSS_URL="wss://proportionate-hardworking-sheet.bsc.discover.quiknode.pro/31b1c22de6474eebf9e4cadf566d9e7d2d000c08/"
